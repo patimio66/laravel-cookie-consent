@@ -1,8 +1,7 @@
 {
-    "name": "whitecube/laravel-cookie-consent",
+    "name": "patimio66/laravel-cookie-consent",
     "description": "Register, configure and ask for cookies consent in a EU-compliant way.",
     "keywords": [
-        "whitecube",
         "laravel",
         "cookies",
         "gdpr",
@@ -18,6 +17,10 @@
         {
             "name": "Toon Van den Bos",
             "email": "toon@whitecube.be"
+        }
+        {
+            "name": "Patryk Imioła",
+            "email": "kontakt@quiksite.pl"
         }
     ],
     "require": {
